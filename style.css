@@ -1,20 +1,25 @@
-body{
+body {
     padding: 0;
     margin: 0;
 }
-.right-side{
+
+.right-side {
     background-image: url("./assets/weather.jpg");
     background-size: 100% 100%;
 }
-#temp1{
+
+#temp1 {
     margin-top: 15rem;
 }
-#cName{
+
+#cName {
     margin-top: 3rem;
 }
-.btn{
+
+.btn {
     border: 1px solid white;
 }
-.item{
+
+.item {
     font-size: 15px;
 }
